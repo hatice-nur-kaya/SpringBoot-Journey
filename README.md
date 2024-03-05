@@ -24,7 +24,3 @@ If you're new to learning Spring Boot or want to explore it further, the followi
 - [Getting Started with Database Operations in Spring Boot](https://spring.io/guides/gs/accessing-data-mysql/)
 
 These resources will help you understand Spring Boot and develop applications. Additionally, the experiences shared in this repository might be beneficial to you.
-
-## License
-
-This project is licensed under the MIT License. For more information, see the [LICENSE](LICENSE) file.
