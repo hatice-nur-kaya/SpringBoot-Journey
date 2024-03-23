@@ -1,6 +1,6 @@
 # SpringBoot-Journey
 
-![Spring Boot Icon](https://skillicons.dev/icons?i=java,spring)]
+![Spring Boot Icon](https://skillicons.dev/icons?i=java,spring)
 
 Bu repository, Spring Boot ile geliştirilen projeleri paylaşmak için oluşturulmuştur. Her bir proje, kendi klasöründe düzenlenmiştir.
 
