@@ -1,6 +1,6 @@
 # SpringBoot-Journey
 
-![Spring Boot Icon](link/to/spring-boot-icon.png)
+![Spring Boot Icon](https://skillicons.dev/icons?i=java,spring,figma&theme=light)](https://skillicons.dev)
 
 Bu repository, Spring Boot ile geliştirilen projeleri paylaşmak için oluşturulmuştur. Her bir proje, kendi klasöründe düzenlenmiştir.
 
@@ -15,7 +15,8 @@ Projelerin her biri ayrı bir klasör içerisinde yer almaktadır. Her klasörü
 
 ## Projeler
 
-1. [Proje 1]([projects/project1/README.md](https://github.com/hatice-nur-kaya/SpringBoot-Journey/blob/master/socket-io/README.md)): Socket.io
+1. [Proje 1](https://github.com/hatice-nur-kaya/SpringBoot-Journey/blob/master/socket-io/README.md): Socket.io tabanlı mesajlaşma uygulaması.
+
 
 ## Kullanılan Teknolojiler
 
