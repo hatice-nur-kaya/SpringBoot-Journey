@@ -2,23 +2,22 @@
 
 ![Spring Boot Icon](https://skillicons.dev/icons?i=java,spring)
 
-Bu repository, Spring Boot ile geliştirilen projeleri paylaşmak için oluşturulmuştur. Her bir proje, kendi klasöründe düzenlenmiştir.
+This repository is created to share projects developed with Spring Boot. Each project is organized in its own folder.
 
-## Proje Yapısı
+## Project Structure
 
-Projelerin her biri ayrı bir klasör içerisinde yer almaktadır. Her klasörün içinde aşağıdaki bileşenler bulunabilir:
+Each project resides in a separate folder. Each folder may contain the following components:
 
-- **README.md:** Proje hakkında genel bilgiler ve nasıl çalıştırılacağına dair talimatlar.
-- **src:** Proje kaynak kodları.
-- **docs:** Proje ile ilgili belgelendirme dosyaları.
-- **screenshots:** Projenin ekran görüntüleri.
+- **README.md:** General information about the project and instructions on how to run it.
+- **src:** Project source code.
+- **docs:** Documentation files related to the project.
+- **screenshots:** Screenshots of the project.
 
-## Projeler
+## Projects
 
-1. [Proje 1](https://github.com/hatice-nur-kaya/SpringBoot-Journey/blob/master/socket-io/README.md): Socket.io tabanlı mesajlaşma uygulaması.
+1. [Project 1](https://github.com/hatice-nur-kaya/SpringBoot-Journey/blob/master/socket-io/README.md): Socket.io based messaging application.
 
-
-## Kullanılan Teknolojiler
+## Technologies Used
 
 - Spring Boot
 - Spring Security
@@ -27,14 +26,16 @@ Projelerin her biri ayrı bir klasör içerisinde yer almaktadır. Her klasörü
 - Socket.io
 - ...
 
-## Nasıl Çalıştırılır?
+## How to Run?
 
-Her bir projenin kendi klasöründe bulunan README.md dosyasında nasıl çalıştırılacağına dair adımlar bulunmaktadır. İlgili projenin klasörüne giderek detaylı bilgilere ulaşabilirsiniz.
+Each project's README.md file in its respective folder contains instructions on how to run it. You can navigate to the folder of the respective project to find detailed information.
 
-## İletişim
+## Contact
 
-Eğer projelerle ilgili sorularınız veya geri bildirimleriniz varsa, lütfen bana [email protected] adresinden ulaşın.
+If you have any questions or feedback regarding the projects, please contact me at [email protected].
 
-## Lisans
+## License
 
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakınız.
+This project is licensed under the MIT License. For more information, see the [LICENSE](LICENSE) file.
+
+👋🎉🚀
